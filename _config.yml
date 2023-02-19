@@ -36,31 +36,32 @@ youtube_username                          :
 features:
   - title: "App Blocking"
     description: "Block distracting apps on demand to help you focus on your work."
-    icon: "fas fa-ban"
+    icon: "ban"
 
   - title: "Customizable Block List"
     description: "Create a personalized list of apps to block during work sessions."
-    icon: "fas fa-cog"
+    icon: "cog"
 
   - title: "Deep Work Mode"
     description: "Activate Deep Work mode to create a distraction-free work environment."
-    icon: "fas fa-moon"
+    icon: "moon"
 
   - title: "Timer"
     description: "Manage your work sessions with a built-in timer feature."
-    icon: "fas fa-clock"
+    icon: "clock"
 
   - title: "Productivity Stats"
     description: "Track your progress with productivity statistics on app usage."
-    icon: "fas fa-chart-bar"
+    icon: "chart-bar"
 
   - title: "Easy to Use"
     description: "User-friendly interface for a seamless work experience."
-    icon: "fas fa-thumbs-up"
+    icon: "thumbs-up"
 
   - title: "Siri Integration"
     description: "Start and stop work sessions with voice commands using Siri."
-    icon: "fas fa-microphone"
+    icon: "microphone"
+
 
 
 
