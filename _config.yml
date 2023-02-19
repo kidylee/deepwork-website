@@ -36,64 +36,64 @@ youtube_username                          :
 features:
   - title: "App Blocking"
     description: "Block distracting apps on demand to help you focus on your work."
-    icon: "ban"
+    fontawesome_icon_name: "ban"
 
   - title: "Customizable Block List"
     description: "Create a personalized list of apps to block during work sessions."
-    icon: "cog"
+    fontawesome_icon_name: "cog"
 
   - title: "Deep Work Mode"
     description: "Activate Deep Work mode to create a distraction-free work environment."
-    icon: "moon"
+    fontawesome_icon_name: "moon"
 
   - title: "Timer"
     description: "Manage your work sessions with a built-in timer feature."
-    icon: "clock"
+    fontawesome_icon_name: "clock"
 
   - title: "Productivity Stats"
     description: "Track your progress with productivity statistics on app usage."
-    icon: "chart-bar"
+    fontawesome_icon_name: "chart-bar"
 
   - title: "Easy to Use"
     description: "User-friendly interface for a seamless work experience."
-    icon: "thumbs-up"
+    fontawesome_icon_name: "thumbs-up"
 
   - title: "Siri Integration"
     description: "Start and stop work sessions with voice commands using Siri."
-    icon: "microphone"
-
+    fontawesome_icon_name: "microphone"
 
 
 
 # Theme Settings
-topbar_color                              : "#000000"
-topbar_transparency                       : 0.1
-topbar_title_color                        : "#ffffff"
+topbar_color: "#262626"
+topbar_transparency: 0.9
+topbar_title_color: "#FFFFFF"
 
-cover_image                               : assets/headerimage.png                    # Replace with alternative image path or image URL.
-cover_overlay_color                       : "#363b3d"
-cover_overlay_transparency                : 0.8
+cover_image: assets/headerimage.png
+cover_overlay_color: "#1C1C1E"
+cover_overlay_transparency: 0.8
 
-device_color                              : black                                     # Set to: blue, black, yellow, coral or white.
+device_color: black
 
-body_background_color                     : "#ffffff"
+body_background_color: "#1C1C1E"
 
-link_color                                : "#1d63ea"
+link_color: "#3F9DF2"
 
-app_title_color                           : "#ffffff"
-app_price_color                           : "#ffffff"
-app_description_color                     : "#ffffff"
+app_title_color: "#FFFFFF"
+app_price_color: "#FFFFFF"
+app_description_color: "#BDBDBD"
 
-feature_title_color                       : "#000000"
-feature_text_color                        : "#666666"
+feature_title_color: "#FFFFFF"
+feature_text_color: "#BDBDBD"
 
-feature_icons_foreground_color            : "#1d63ea"
-feature_icons_background_color            : "#e6e6e6"
+feature_icons_foreground_color: "#3F9DF2"
+feature_icons_background_color: "#353535"
 
-social_icons_foreground_color             : "#666666"
-social_icons_background_color             : "#e6e6e6"
+social_icons_foreground_color: "#BDBDBD"
+social_icons_background_color: "#353535"
 
-footer_text_color                         : "#666666"
+footer_text_color: "#BDBDBD"
+
 
 
 
